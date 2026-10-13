@@ -1,5 +1,5 @@
 # Operació Nord Tec 
-- Leen Sharqawi ASIX1B
+Leen Sharqawi ASIX1B
 
 ## Índex
 - [Estat del projecte](#estat-del-projecte)
