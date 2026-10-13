@@ -1,13 +1,20 @@
-# Operació NordTec
-# leen
-## nvl 2.1
-## nvl 2.2
-## **Negrita** _Cursiva_
+# Operació Nord Tec - Leen Sharqawi ASIX1B
 
-Lista
-1. git add "Nombre del archivo"
-2. git commit -m
-3. git push
+##Índex
+- [Estat del projecte](#estat-del-projecte)
+- [Arquitectura de xarxa](#arquitectura-de-xarxa)
+- [Configuracions](#configuracions)
+- [Incidències i solucions](#incidències-i-solucions)
+- [Decisions tècniques](#decisions-tècniques)
+- [Reflexions tècniques](#reflexions-tècniques)
+
+## Estat del projecte
+- 
+
+## Arquitectura de xarxa
+![Esquema de xarxa](img/esquema-red.jpg)
+
+## Configuracions
 
 
 
