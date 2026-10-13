@@ -1,6 +1,6 @@
 # Operació Nord Tec - Leen Sharqawi ASIX1B
 
-##Índex
+## Índex
 - [Estat del projecte](#estat-del-projecte)
 - [Arquitectura de xarxa](#arquitectura-de-xarxa)
 - [Configuracions](#configuracions)
