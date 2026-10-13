@@ -23,11 +23,11 @@ Leen Sharqawi ASIX1B
 
 
 ## Incidències i solucions
-- Missatge d'error exacte
+![Missatge d'error](img/images.png)
 - Quan: fase i context.
 - Causa: per què passava.
 - Solució: què vam fer.
-- Detectada per: @leen
+- Detectada per: @usuari
 - Decisions tècniques (què heu triat, per què, alternatives)
 - Reflexions tècniques
 
