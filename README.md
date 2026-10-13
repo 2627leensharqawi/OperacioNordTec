@@ -12,9 +12,9 @@ Leen Sharqawi ASIX1B
 ## Estat del projecte
 | RA | Estat |
 | :--- | :--- |
-| RA1 | Completa |
-| RA2 | Pendent |
-| RA3 | Pendent |
+| **RA1** | 🟢 Completa |
+| **RA2** | 🔴 Pendent |
+| **RA3** | 🔴 Pendent |
 
 ## Arquitectura de xarxa
 ![Esquema de xarxa](img/esquema-red.jpg)
