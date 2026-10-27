@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Operació Nord Tec 
 Leen Sharqawi ASIX1B
 
@@ -58,4 +59,37 @@ network:
 - Solució: què vam fer.
 - Detectada per: @usuari
 - Decisions tècniques (què heu triat, per què, alternatives)
+=======
+# Operació Nord Tec 
+Leen Sharqawi ASIX1B
+
+## Índex
+- [Estat del projecte](#estat-del-projecte)
+- [Arquitectura de xarxa](#arquitectura-de-xarxa)
+- [Configuracions](#configuracions)
+- [Incidències i solucions](#incidències-i-solucions)
+- [Decisions tècniques](#decisions-tècniques)
+- [Reflexions tècniques](#reflexions-tècniques)
+
+## Estat del projecte
+| RA | Estat |
+| :--- | :--- |
+| **RA1** | 🟢 Completa |
+| **RA2** | 🔴 Pendent |
+| **RA3** | 🔴 Pendent |
+
+## Arquitectura de xarxa
+![Esquema de xarxa](img/esquema-red.jpg)
+
+## Configuracions
+
+
+## Incidències i solucions
+![Missatge d'error](img/images.png)
+- Quan: fase i context.
+- Causa: per què passava.
+- Solució: què vam fer.
+- Detectada per: @usuari
+- Decisions tècniques (què heu triat, per què, alternatives)
+>>>>>>> 4370bed8c585314898321f376321365ec72ec913
 - Reflexions tècniques
